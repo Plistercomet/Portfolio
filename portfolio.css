@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@1,300&display=swap');
+
+
+body{
+    background: linear-gradient(to right, #8F6A4E 50%, #ffff 50%);
+    max-width: 1200px;/* Define a largura máxima da página como 1200 pixels */
+    margin: 0 auto; /* Centraliza o conteúdo na página */
+    align-items: center; /* Alinha os itens verticalmente */
+}
+
+
+.fotocircular {
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border: 7px solid white;
+}
+.marrom h1 {
+    color: white;
+}
+.marrom h2 {
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+.marrom p {
+    width: 45%;
+    text-align: justify;
+    font-family: 'Red Hat Display', sans-serif;
+    color: white;
+}
+
+.marrom hr {
+    width: 49%;
+    margin: 0;
+}
+
+.marrom ul {
+    color: white;
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+.marrom .info {
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+.branco {
+    float: right ;
+    width: 54%; /* Adicione uma largura para os elementos */
+    margin-right: -47px;
+    margin-top: 50px;
+    
+}
+
+
+.branco .experiencia ul{
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+.branco h2{
+    margin-left: 40px;
+}
+
+.branco .habilidades ul{
+    font-family: 'Red Hat Display', sans-serif;
+}   
+
+.branco .habilidades h3{
+    font-family: 'Red Hat Display', sans-serif;
+    margin-left: 20px;
+    
+}
+
+/*Troca de cores*/
+/*Troca de cores*/
+
